@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AritmeticsExercise", "Aritm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomMathClass", "CustomMathClass\CustomMathClass.csproj", "{FFD0D779-4CB2-48BA-9872-B10BA3E20FDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmovSvqt", "FilmovSvqt\FilmovSvqt.csproj", "{744A418B-AC77-4029-99F3-45304C0ABCED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{FFD0D779-4CB2-48BA-9872-B10BA3E20FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFD0D779-4CB2-48BA-9872-B10BA3E20FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFD0D779-4CB2-48BA-9872-B10BA3E20FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744A418B-AC77-4029-99F3-45304C0ABCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744A418B-AC77-4029-99F3-45304C0ABCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744A418B-AC77-4029-99F3-45304C0ABCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744A418B-AC77-4029-99F3-45304C0ABCED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

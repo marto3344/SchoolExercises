@@ -13,7 +13,7 @@ namespace CustomMathClass
             Console.WriteLine("Please enter n & k:");
             var input = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
             Console.WriteLine($"Combinations: {CustomMath.Combination(input[0],input[1])}");
-            
+           
         }
     }
 }
